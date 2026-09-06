@@ -10,10 +10,4 @@ Working on git stash changes...
 - Changes from feature branch
 - New line 
 
--> Feature added by another teamMate.
-
-
--> New feature updated to the main branch.
-
-Listing features heree
 
