@@ -6,3 +6,5 @@ Thrid line
 
 
 Working on git stash changes...
+- Code merge line - from feature branch
+- Changes from feature branch
