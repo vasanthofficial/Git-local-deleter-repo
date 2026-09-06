@@ -7,3 +7,4 @@ Thrid line
 
 - Code merge line - from feature branch
 - Changes from feature branch
+- New line 
