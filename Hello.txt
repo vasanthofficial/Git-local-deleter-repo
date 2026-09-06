@@ -11,11 +11,4 @@ Working on git stash changes...
 - New line 
 
 
-<<<<<<< HEAD
-
-
-
-New feature developed by me in local repo!
-=======
 Changes done by another teammate on feature branch.
->>>>>>> 920bb27c2a66eb3a067dcc23d5f0a38993203032
